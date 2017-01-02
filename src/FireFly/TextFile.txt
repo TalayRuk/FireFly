@@ -1,0 +1,6 @@
+﻿Merge from another branch to master
+Once switched back to master branch
+	- git add .  & commit -m "add update master"
+	- git merge note (another branch name to update master to be the same as note's branch)
+	- Should create no conflict
+	- git push vp master
