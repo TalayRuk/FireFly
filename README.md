@@ -1,12 +1,13 @@
 # FireFly
 
+[//]: # (![screenshot of project running](filename.jpg))
+
 ## Description
 Capstone Project using ASP.NET Core Authentication, WebAPI
 A web application that let users search for flights, save flights, plan their trips, look up weather of the arrival cities, add blog or review related to travel and travel related news  
 
 #### By _** Vichitra Pool / Jan 1st 2017**_
 
-[//]: # (![screenshot of project running](filename.jpg))
 
 
 ## Specs
