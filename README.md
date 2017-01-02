@@ -4,7 +4,7 @@
 Capstone Project using ASP.NET Core Authentication, WebAPI
 A web application that let users search for flights, save flights, plan their trips, look up weather of the arrival cities, add blog or review related to travel and travel related news  
 
-#### By _** Vichitra Pool / Jan 1nd, 2017**_
+#### By _** Vichitra Pool / Jan 1st 2017**_
 
 [//]: # (![screenshot of project running](filename.jpg))
 
@@ -36,10 +36,10 @@ A web application that let users search for flights, save flights, plan their tr
 
 
 
-[//]: # (### 5. Testing
-- You'll need to meet two testing requirements before handing the site off to the marketing team.
-1. Tests are present that verify that each route is successfully returning a view.
-2. At least one test to verify that users email addresses are being successfully added to the mailing list.)
+[//]: # (### 5. Testing)
+[//]: # (- You'll need to meet two testing requirements before handing the site off to the marketing team.)
+[//]: # (1. Tests are present that verify that each route is successfully returning a view.)
+[//]: # (2. At least one test to verify that users email addresses are being successfully added to the mailing list.)
   
 
 
