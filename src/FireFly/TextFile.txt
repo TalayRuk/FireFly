@@ -1,8 +1,11 @@
 ﻿Merge from another branch to master
 Once switched back to master branch
-	Opt = (Option If merge from master to note & already commit & push )
-(Opt)- git add .  & commit -m "add update master"
-	 - git merge note (another branch name to update master to be the same as note's branch)
-	 - Should create no conflict
-	 - git push vp master
-	 - VS will ask - click Yes to All  (To change msater files to match note branch in VS)
+		- git checkout master (or branch name)
+(*Opt)	- git add .  & git commit -m "add update master"
+		- git merge note (another branch name) (to update master to be the same as note's branch)
+		- Should create no conflict
+		- git push vp master
+		- VS will ask - click Yes to All  (To change msater files to match note branch in VS)
+
+	 
+*Opt = (Option If merge from branch to branch & already commit in previous branch don't need to commit again! )
